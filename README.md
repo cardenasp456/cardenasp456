@@ -1,5 +1,3 @@
-# ¡Hola! 👋 Soy David Cárdenas
-
 ¡Bienvenido a mi perfil de GitHub!  
 Soy **Ingeniero de Sistemas** con amplia experiencia como **Desarrollador Full Stack**. Me apasiona crear soluciones tecnológicas robustas, eficientes y centradas en el usuario.
 
